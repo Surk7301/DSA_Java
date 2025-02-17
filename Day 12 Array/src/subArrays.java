@@ -4,12 +4,15 @@ public class subArrays {
         int tp=0;
         for(int i=0; i<numbers.length; i++){
             int start = i;
-            for(int j=0; j<numbers.length; j++){
+            for(int j=i; j<numbers.length; j++){
+                int sum=0;
                 int end = j;
                 for(int k=start; k<=end; k++){
                     System.out.print(numbers[k]+ " ");
+                    sum+= numbers[k];
                     tp++;
                 }
+                System.out.println(" ==> Sum: "+sum);
                 System.out.println();
             }
             System.out.println();
