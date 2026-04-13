@@ -20,6 +20,10 @@
       <module fileurl="file://$PROJECT_DIR$/Day 6 Pattern_Basics/Day 6 Pattern_Basics.iml" filepath="$PROJECT_DIR$/Day 6 Pattern_Basics/Day 6 Pattern_Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 8 Functions/Day 8 Functions.iml" filepath="$PROJECT_DIR$/Day 8 Functions/Day 8 Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day 9 FunctionsOverloading/Day 9 FunctionsOverloading.iml" filepath="$PROJECT_DIR$/Day 9 FunctionsOverloading/Day 9 FunctionsOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agent/agent.iml" filepath="$PROJECT_DIR$/agent/agent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture10_loops/lecture10_loops.iml" filepath="$PROJECT_DIR$/lecture10_loops/lecture10_loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture11_Pattern/lecture11_Pattern.iml" filepath="$PROJECT_DIR$/lecture11_Pattern/lecture11_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture13_method/lecture13_method.iml" filepath="$PROJECT_DIR$/lecture13_method/lecture13_method.iml" />
     </modules>
   </component>
 </project>
