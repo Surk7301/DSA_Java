@@ -24,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/lecture10_loops/lecture10_loops.iml" filepath="$PROJECT_DIR$/lecture10_loops/lecture10_loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture11_Pattern/lecture11_Pattern.iml" filepath="$PROJECT_DIR$/lecture11_Pattern/lecture11_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture13_method/lecture13_method.iml" filepath="$PROJECT_DIR$/lecture13_method/lecture13_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture14_Arrays/lecture14_Arrays.iml" filepath="$PROJECT_DIR$/lecture14_Arrays/lecture14_Arrays.iml" />
     </modules>
   </component>
 </project>
