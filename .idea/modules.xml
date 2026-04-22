@@ -23,8 +23,10 @@
       <module fileurl="file://$PROJECT_DIR$/agent/agent.iml" filepath="$PROJECT_DIR$/agent/agent.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture10_loops/lecture10_loops.iml" filepath="$PROJECT_DIR$/lecture10_loops/lecture10_loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/lecture11_Pattern/lecture11_Pattern.iml" filepath="$PROJECT_DIR$/lecture11_Pattern/lecture11_Pattern.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lecture13_method/lecture13_method.iml" filepath="$PROJECT_DIR$/lecture13_method/lecture13_method.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lecture14_Arrays/lecture14_Arrays.iml" filepath="$PROJECT_DIR$/lecture14_Arrays/lecture14_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture12_method/lecture12_method.iml" filepath="$PROJECT_DIR$/lecture12_method/lecture12_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture13_Arrays/lecture13_Arrays.iml" filepath="$PROJECT_DIR$/lecture13_Arrays/lecture13_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture14_String_Basics/lecture14_String_Basics.iml" filepath="$PROJECT_DIR$/lecture14_String_Basics/lecture14_String_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture_13_2DArray/lecture_13_2DArray.iml" filepath="$PROJECT_DIR$/lecture_13_2DArray/lecture_13_2DArray.iml" />
     </modules>
   </component>
 </project>
